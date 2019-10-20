@@ -1,6 +1,6 @@
 import sys
 
-# This is a comment. Changes: 125
+# This is a comment. Changes: 126
 
 if len(sys.argv) != 3:
     print("This program expects two input numbers.")
